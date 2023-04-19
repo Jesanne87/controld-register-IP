@@ -56,5 +56,5 @@ fi
 sleep 1
 rm -f /root/kontold
 rm -f /root/kontoldpass
-#rm -f /root/kontol.sh
+rm -f /root/kontol.sh
 exit
