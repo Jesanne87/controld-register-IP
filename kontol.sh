@@ -45,12 +45,12 @@ addIP=$(curl -Ss --request POST \
 # Print result
 if [[ ${addIP} != '0' ]]; then
     echo "Success, Add $(curl -Ss ipv4.icanhazip.com)"
-    echo "Moded By : @hehehe"
+    echo "Moded By : JsPhantom"
     echo "Credit   : @sam_sfx"
 sleep 1
 else
     echo "Sorry, Unsuccessful"
-    echo "Moded By  : @hehehe"
+    echo "Moded By  : JsPhantom"
     echo "Credit To : @sam_sfx"
 fi    
 sleep 1
