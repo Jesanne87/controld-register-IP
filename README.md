@@ -1,5 +1,5 @@
 # controld-register-IP
-Simple way to register your IP address to controld
+Simple way to register your IP address to controld <P>
 Copy & Paste command below at your VPS server
 
 ```
